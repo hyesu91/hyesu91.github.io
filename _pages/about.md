@@ -67,17 +67,54 @@ Full-cycle experience from antigen production → candidate screening → lead c
 
 ## Skills & Expertise
 
-| Area | Details |
-|------|---------|
-| 🎯 **Disease Target** | Amyloid-β · Tau · α-Synuclein (Alzheimer's, Parkinson's) |
-| 🧫 **Antigen Production** | Recombinant protein expression & purification (E. coli, CHO) · SDS-PAGE · SEC-HPLC · SPR · DLS |
-| 💉 **Antibody Production** | Recombinant antibody expression & purification · Hybridoma-based antibody production · IgG purification |
-| 🔍 **Antibody Screening** | Hybridoma technology · Phage display · ELISA · FACS · Cell-based Assay · Competitive Binding Assay |
-| 🧠 **Neuronal Cell Model** | Neuronal cell differentiation & culture · In vivo efficacy study |
-| ⚗️ **Molecular Biology** | Cloning · Transfection · Recombinant vector construction |
-| 📊 **Assay Development** | Assay setup & validation · SOP establishment · ADA Assay · Data analysis & interpretation |
-| 🔬 **Imaging & Histology** | IHC · IF · ICC · TEM · Confocal imaging · Fluorescence imaging |
-| ✅ **Lead Selection** | Multi-criteria candidate evaluation · Lead clone selection · CMC linkage |
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-bottom:8px;">
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #3b6fd4;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🎯 Disease Target</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Amyloid-β · Tau · α-Synuclein<br>Alzheimer's Disease · Parkinson's Disease</div>
+  </div>
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #3b6fd4;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🧫 Antigen Production</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Recombinant protein expression & purification (E. coli, CHO)<br>SDS-PAGE · SEC-HPLC · SPR · DLS</div>
+  </div>
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #5bc0eb;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">💉 Antibody Production</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Recombinant antibody expression & purification<br>Hybridoma-based antibody production · IgG purification</div>
+  </div>
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #5bc0eb;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🔍 Antibody Screening</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Hybridoma technology · Phage display<br>ELISA · FACS · Cell-based Assay · Competitive Binding Assay</div>
+  </div>
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #7c4dff;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🧠 Neuronal Cell Model</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Neuronal cell differentiation & culture<br>In vivo efficacy study</div>
+  </div>
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #7c4dff;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">⚗️ Molecular Biology</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Cloning · Transfection<br>Recombinant vector construction</div>
+  </div>
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #00b4d8;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">📊 Assay Development</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Assay setup & validation · SOP establishment<br>ADA Assay · Data analysis & interpretation</div>
+  </div>
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #00b4d8;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🔬 Imaging & Histology</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">IHC · IF · ICC · TEM<br>Confocal imaging · Fluorescence imaging</div>
+  </div>
+
+  <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #2a50a8; grid-column:1/-1;">
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">✅ Lead Clone Selection</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Multi-criteria candidate evaluation · Final lead clone selection · CMC linkage</div>
+  </div>
+
+</div>
 
 ---
 
