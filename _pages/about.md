@@ -28,7 +28,6 @@ Full-cycle experience from antigen production → candidate screening → lead c
 </div>
 
 <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:18px; margin-bottom:36px;">
-
   <div style="border-radius:12px; overflow:hidden; box-shadow:0 4px 20px rgba(0,0,0,0.12);">
     <div style="position:relative; height:150px;">
       <img src="/images/brain-mri.jpg" alt="Alzheimer's" style="width:100%; height:100%; object-fit:cover; display:block; filter:brightness(0.6) sepia(0.3);">
@@ -40,7 +39,6 @@ Full-cycle experience from antigen production → candidate screening → lead c
       <p style="font-size:0.82rem; color:#556080; margin:0; line-height:1.6;">Amyloid-β & Tau targeting · Plaque clearance antibody development</p>
     </div>
   </div>
-
   <div style="border-radius:12px; overflow:hidden; box-shadow:0 4px 20px rgba(0,0,0,0.12);">
     <div style="position:relative; height:150px;">
       <img src="/images/neuron.jpg" alt="Parkinson's" style="width:100%; height:100%; object-fit:cover; display:block; filter:brightness(0.6) sepia(0.2) hue-rotate(200deg);">
@@ -52,7 +50,6 @@ Full-cycle experience from antigen production → candidate screening → lead c
       <p style="font-size:0.82rem; color:#556080; margin:0; line-height:1.6;">α-Synuclein targeting · Aggregation inhibition antibody development</p>
     </div>
   </div>
-
   <div style="border-radius:12px; overflow:hidden; box-shadow:0 4px 20px rgba(0,0,0,0.12);">
     <div style="position:relative; height:150px;">
       <img src="/images/synapse.jpg" alt="Neurodegeneration" style="width:100%; height:100%; object-fit:cover; display:block; filter:brightness(0.6);">
@@ -61,41 +58,25 @@ Full-cycle experience from antigen production → candidate screening → lead c
       </div>
     </div>
     <div style="padding:14px 16px; background:#fff;">
-      <p style="font-size:0.82rem; color:#556080; margin:0; line-height:1.6;">Tau pathology · Neuronal model assays · In vivo efficacy evaluation</p>
+      <p style="font-size:0.82rem; color:#556080; margin:0; line-height:1.6;">Tau pathology · Neuronal cell model · In vivo efficacy evaluation</p>
     </div>
   </div>
-
 </div>
-
-| Area | Details |
-|------|---------|
-| 🎯 **Target** | Amyloid-β · Tau · α-Synuclein |
-| 🧫 **Antigen Production** | Recombinant protein expression & purification (E. coli, CHO) |
-| 🔍 **Screening** | Hybridoma technology · Phage display |
-| 📊 **Analysis** | ELISA · SEC-HPLC · SPR · DLS · SDS-PAGE |
-| ✅ **Lead Selection** | Multi-criteria candidate evaluation & final lead clone selection |
 
 ---
 
-## Skills
+## Skills & Expertise
 
-**Antigen Analysis**  
-`SDS-PAGE` `SEC-HPLC` `SPR` `DLS` `Recombinant Protein Purification`
-
-**Antibody Screening**  
-`Hybridoma` `Phage Display` `ELISA` `FACS` `Cell-based Assay` `Competitive Binding Assay`
-
-**Neurodegenerative Disease Research**  
-`Amyloid-β` `Tau` `α-Synuclein` `Neuronal Cell Differentiation & Culture` `Neuronal Cell Model` `In Vivo Efficacy Study`
-
-**Molecular Biology & Cell Engineering**  
-`Cloning` `Transfection` `Recombinant Vector Construction`
-
-**Assay Development**  
-`Assay Setup & Validation` `SOP Establishment` `ADA Assay` `Data Analysis & Interpretation`
-
-**Imaging & Histology**  
-`IHC` `IF` `ICC` `TEM` `Confocal Imaging` `Fluorescence Imaging`
+| Area | Details |
+|------|---------|
+| 🎯 **Disease Target** | Amyloid-β · Tau · α-Synuclein (Alzheimer's, Parkinson's) |
+| 🧫 **Antigen Production** | Recombinant protein expression & purification (E. coli, CHO) · SDS-PAGE · SEC-HPLC · SPR · DLS |
+| 🔍 **Antibody Screening** | Hybridoma technology · Phage display · ELISA · FACS · Cell-based Assay · Competitive Binding Assay |
+| 🧠 **Neuronal Cell Model** | Neuronal cell differentiation & culture · In vivo efficacy study |
+| ⚗️ **Molecular Biology** | Cloning · Transfection · Recombinant vector construction |
+| 📊 **Assay Development** | Assay setup & validation · SOP establishment · ADA Assay · Data analysis & interpretation |
+| 🔬 **Imaging & Histology** | IHC · IF · ICC · TEM · Confocal imaging · Fluorescence imaging |
+| ✅ **Lead Selection** | Multi-criteria candidate evaluation · Lead clone selection · CMC linkage |
 
 ---
 
