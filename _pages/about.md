@@ -75,8 +75,8 @@ Full-cycle experience from antigen production → candidate screening → lead c
   </div>
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #3b6fd4;">
-    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🧫 Antigen Production</div>
-    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Recombinant protein expression & purification (E. coli, CHO)<br>SDS-PAGE · SEC-HPLC · SPR · DLS</div>
+    <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🧫 Antigen Production & Characterization</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Recombinant protein expression & purification (E. coli, CHO)<br>SDS-PAGE · SEC-HPLC · SPR · DLS · Dot blot</div>
   </div>
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #5bc0eb;">
@@ -86,7 +86,7 @@ Full-cycle experience from antigen production → candidate screening → lead c
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #5bc0eb;">
     <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🔍 Antibody Screening</div>
-    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Hybridoma technology · Phage display<br>ELISA · FACS · Cell-based Assay · Competitive Binding Assay</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Hybridoma technology · Phage display<br>ELISA · FACS · Dot blot · Cell-based Assay · Competitive Binding Assay</div>
   </div>
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #7c4dff;">
@@ -106,7 +106,7 @@ Full-cycle experience from antigen production → candidate screening → lead c
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #00b4d8;">
     <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🔬 Imaging & Histology</div>
-    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">IHC · IF · ICC · TEM · Dot blot<br>Confocal imaging · Fluorescence imaging<br>Frozen section · Paraffin section<br><strong style="color:#3b6fd4;">Human & Mouse brain tissue analysis</strong></div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">IHC · IF · ICC · TEM<br>Confocal imaging · Fluorescence imaging<br>Frozen section · Paraffin section<br><strong style="color:#3b6fd4;">Human & Mouse brain tissue analysis</strong></div>
   </div>
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #2a50a8; grid-column:1/-1;">
