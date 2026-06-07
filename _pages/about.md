@@ -96,7 +96,7 @@ Full-cycle experience from antigen production → candidate screening → lead c
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #7c4dff;">
     <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">⚗️ Molecular Biology</div>
-    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Cloning · Transfection · Recombinant vector construction<br>Microbial culture · DNA preparation</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">Cloning · Transfection · Recombinant vector construction<br>Microbial culture · DNA preparation · Gel electrophoresis</div>
   </div>
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #00b4d8;">
