@@ -17,6 +17,8 @@ Full-cycle experience from antigen production → candidate screening → lead c
 
 ## Research Focus
 
+<img src="/images/research-brain.jpg" alt="Neuroscience Research" style="width:100%; border-radius:10px; margin-bottom:20px;">
+
 | Area | Details |
 |------|---------|
 | 🎯 **Target** | Amyloid-β · Tau · α-Synuclein |
@@ -24,6 +26,15 @@ Full-cycle experience from antigen production → candidate screening → lead c
 | 🔍 **Screening** | Hybridoma technology · Phage display |
 | 📊 **Analysis** | ELISA · SEC-HPLC · SPR · DLS · SDS-PAGE |
 | ✅ **Lead Selection** | Multi-criteria candidate evaluation & final lead clone selection |
+
+---
+
+## Laboratory Work
+
+<div style="display:flex; gap:16px; margin-bottom:20px;">
+  <img src="/images/research-lab.jpg" alt="Laboratory" style="width:49%; border-radius:10px;">
+  <img src="/images/research-microscope.jpg" alt="Microscopy" style="width:49%; border-radius:10px;">
+</div>
 
 ---
 
