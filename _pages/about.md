@@ -71,6 +71,7 @@ Full-cycle experience from antigen production → candidate screening → lead c
 |------|---------|
 | 🎯 **Disease Target** | Amyloid-β · Tau · α-Synuclein (Alzheimer's, Parkinson's) |
 | 🧫 **Antigen Production** | Recombinant protein expression & purification (E. coli, CHO) · SDS-PAGE · SEC-HPLC · SPR · DLS |
+| 💉 **Antibody Production** | Recombinant antibody expression & purification · Hybridoma-based antibody production · IgG purification |
 | 🔍 **Antibody Screening** | Hybridoma technology · Phage display · ELISA · FACS · Cell-based Assay · Competitive Binding Assay |
 | 🧠 **Neuronal Cell Model** | Neuronal cell differentiation & culture · In vivo efficacy study |
 | ⚗️ **Molecular Biology** | Cloning · Transfection · Recombinant vector construction |
