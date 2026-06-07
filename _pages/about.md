@@ -106,7 +106,7 @@ Full-cycle experience from antigen production → candidate screening → lead c
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #00b4d8;">
     <div style="font-weight:700; color:#1a1a2e; margin-bottom:8px;">🔬 Imaging & Histology</div>
-    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">IHC · IF · ICC · TEM<br>Confocal imaging · Fluorescence imaging</div>
+    <div style="font-size:0.88rem; color:#556080; line-height:1.7;">IHC · IF · ICC · TEM · Dot blot<br>Confocal imaging · Fluorescence imaging<br>Frozen block 제작 · Slide 제작</div>
   </div>
 
   <div style="background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 2px 12px rgba(59,111,212,0.09); border-left:4px solid #2a50a8; grid-column:1/-1;">
